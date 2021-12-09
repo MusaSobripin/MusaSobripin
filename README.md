@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a computer science student at UESPI de piripiri. A nature enthusiast and lover who is immersing himself in the world of technologies
-
 - 🌱 I am currently in the IV period of the University
 - 📫 How to reach me: instagram.com/musa_sobripin/
 
