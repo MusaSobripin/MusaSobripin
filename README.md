@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋
 
 I am a computer science student at UESPI de piripiri. A nature enthusiast and lover who is immersing himself in the world of technologies
 
