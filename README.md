@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I am currently in the IV period of the University
+- 🌱 I am currently in the IV period of the University...
 - 📫 How to reach me: instagram.com/musa_sobripin/
 
 <div align="">
